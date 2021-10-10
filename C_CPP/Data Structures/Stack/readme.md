@@ -3,3 +3,4 @@
 - [Stack using Linked List](./stack_using_linked_list.cpp)
 - [Stock Span Problem](./Stock%20Span%20Problem )
 - [Stack Audio](./Stack_Audio.md)
+- [Stack Video](https://github.com/girlscript/winter-of-contributing/blob/82b971bb38eaf9189907b0b87b1bea3780a65e7f/C_CPP/Data%20Structures/Stack/Stack_Video.md)
